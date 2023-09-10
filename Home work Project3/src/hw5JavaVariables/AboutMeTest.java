@@ -1,6 +1,5 @@
 package hw5JavaVariables;
 
-import org.jcp.xml.dsig.internal.dom.DOMReference;
 //Object is created in main method & so on Constructor is initialized:
 //variables are initialized:
 // method is initialized:
